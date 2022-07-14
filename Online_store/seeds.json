@@ -331,17 +331,6 @@
   },
   {
     "id": "31",
-    "name": "Тис ягодный",
-    "equal": "10",
-    "stratication": "более 6-7 месяцев",
-    "soil": "Любая",
-    "depth": "1",
-    "frostresistance": "4",
-    "illumination": "Солнечное",
-    "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/31.jpg"
-  },
-  {
-    "id": "32",
     "name": "Эводия Даниэля",
     "equal": "10",
     "stratication": "1-2 месяца, влажная",
@@ -352,7 +341,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/32.jpg"
   },
   {
-    "id": "33",
+    "id": "32",
     "name": "Каштан посевной (съедобный)",
     "equal": "15",
     "stratication": "1-2 месяца, влажная",
@@ -363,7 +352,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/33.jpg"
   },
   {
-    "id": "34",
+    "id": "33",
     "name": "Таксодиум двурядный",
     "equal": "10",
     "stratication": "без",
@@ -374,7 +363,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/34.jpg"
   },
   {
-    "id": "35",
+    "id": "34",
     "name": "Клён пальмолистный",
     "equal": "10",
     "stratication": "без",
@@ -385,7 +374,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/35.jpg"
   },
   {
-    "id": "36",
+    "id": "35",
     "name": "Гинкго Билоба",
     "equal": "10",
     "stratication": "без",
@@ -396,7 +385,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/36.jpg"
   },
   {
-    "id": "37",
+    "id": "36",
     "name": "Павловния Shan Tong",
     "equal": "200",
     "stratication": "без",
@@ -407,7 +396,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/37.jpg"
   },
   {
-    "id": "38",
+    "id": "37",
     "name": "Павловния войлочная",
     "equal": "200",
     "stratication": "без",
@@ -418,7 +407,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/38.jpg"
   },
   {
-    "id": "39",
+    "id": "38",
     "name": "Павловния ФТЕ",
     "equal": "200",
     "stratication": "без",
@@ -429,7 +418,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/39.jpg"
   },
   {
-    "id": "40",
+    "id": "39",
     "name": "Павловния Z07 Pao Tong",
     "equal": "200",
     "stratication": "без",
@@ -440,7 +429,7 @@
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/40.jpg"
   },
   {
-    "id": "41",
+    "id": "40",
     "name": "Павловния Hibrid 9501",
     "equal": "200",
     "stratication": "без",
