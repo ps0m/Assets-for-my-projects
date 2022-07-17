@@ -21,7 +21,8 @@
     "frostresistance": "5",
     "illumination": "Затенненное",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/2.jpg",
-    "price": "87"
+    "price": "87",
+    "popular": "Поппулярные"
   },
   {
     "id": "3",
@@ -45,7 +46,8 @@
     "frostresistance": "5",
     "illumination": "Любое",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/4.jpg",
-    "price": "31"
+    "price": "31",
+    "popular": "Поппулярные"
   },
   {
     "id": "5",
@@ -57,7 +59,8 @@
     "frostresistance": "4",
     "illumination": "Любое",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/5.jpg",
-    "price": "87"
+    "price": "87",
+    "popular": "Поппулярные"
   },
   {
     "id": "6",
@@ -105,7 +108,8 @@
     "frostresistance": "4",
     "illumination": "Солнечное",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/9.jpg",
-    "price": "34"
+    "price": "34",
+    "popular": "Поппулярные"
   },
   {
     "id": "10",
@@ -129,7 +133,8 @@
     "frostresistance": "5",
     "illumination": "Затенненное",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/11.jpg",
-    "price": "28"
+    "price": "28",
+    "popular": "Поппулярные"
   },
   {
     "id": "12",
@@ -153,7 +158,8 @@
     "frostresistance": "4",
     "illumination": "Солнечное",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/13.jpg",
-    "price": "56"
+    "price": "56",
+    "popular": "Поппулярные"
   },
   {
     "id": "14",
@@ -189,7 +195,8 @@
     "frostresistance": "4",
     "illumination": "Солнечное",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/16.jpg",
-    "price": "31"
+    "price": "31",
+    "popular": "Поппулярные"
   },
   {
     "id": "17",
@@ -225,7 +232,8 @@
     "frostresistance": "5",
     "illumination": "Любое",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/19.jpg",
-    "price": "68"
+    "price": "68",
+    "popular": "Поппулярные"
   },
   {
     "id": "20",
@@ -297,7 +305,8 @@
     "frostresistance": "5",
     "illumination": "Любое",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/25.jpg",
-    "price": "28"
+    "price": "28",
+    "popular": "Поппулярные"
   },
   {
     "id": "26",
@@ -333,7 +342,8 @@
     "frostresistance": "4",
     "illumination": "Солнечное",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/28.jpg",
-    "price": "74"
+    "price": "74",
+    "popular": "Поппулярные"
   },
   {
     "id": "29",
@@ -381,7 +391,8 @@
     "frostresistance": "4",
     "illumination": "Затенненное",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/32.jpg",
-    "price": "20"
+    "price": "20",
+    "popular": "Поппулярные"
   },
   {
     "id": "33",
@@ -429,7 +440,8 @@
     "frostresistance": "4",
     "illumination": "Любое",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/36.jpg",
-    "price": "58"
+    "price": "58",
+    "popular": "Поппулярные"
   },
   {
     "id": "37",
@@ -477,6 +489,7 @@
     "frostresistance": "5",
     "illumination": "Солнечное",
     "link": "https://raw.githubusercontent.com/ps0m/Assets-for-my-projects/main/Online_store/jpg/40.jpg",
-    "price": "78"
+    "price": "78",
+    "popular": "Поппулярные"
   }
 ]
